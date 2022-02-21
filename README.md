@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anawin Athawong</h1>
 <h3 align="center">A lazy developer student from Thailand.</h3>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anawinathawong) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/besuto.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anawin-a) 
+## 🌐Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/anawin-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anawin-a" height="30" width="40" /></a>
+<a href="https://fb.com/anawinathawong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anawinathawong" height="30" width="40" /></a>
+<a href="https://instagram.com/besuto.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="besuto.a" height="30" width="40" /></a>
+</p>
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
@@ -11,6 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=greede14&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=greede14&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+  ## 💰You can help me by Donating
+<p><a href="https://ko-fi.com/anawinathawong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anawinathawong" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greede14&" alt="greede14" /></p>
+
 
 
 ### ✍️ Dev Quote
@@ -18,9 +27,3 @@
 
 ### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ANAWIN) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
