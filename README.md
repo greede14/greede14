@@ -16,8 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=greede14&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=greede14&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greede14&" alt="greede14" /></p>
- 
  ## 💰You can help me by Donating
 <p><a href="https://ko-fi.com/anawinathawong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anawinathawong" /></a></p><br><br>
 
