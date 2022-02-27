@@ -1,3 +1,8 @@
+<div id="header" align="center">
+ 
+  <img src="https://media1.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Anawin Athawong</h1>
 <h3 align="center">A lazy developer student from Thailand.</h3>
@@ -19,10 +24,3 @@
  ## 💰You can help me by Donating
 ><p><a href="https://ko-fi.com/anawinathawong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anawinathawong" /></a></p><br><br>
 
-
-
-### ✍️ Dev Quote
->![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Dev Meme
-><img src="https://random-memer.herokuapp.com/" width="512px"/>
