@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anawin Athawong</h1>
-<h3 align="center">A lazy developer student from Thailand.</h3>
+<h3 align="center">A developer student from Thailand.</h3>
 
 ## 🌐Connect with me:
 <p align="left">
