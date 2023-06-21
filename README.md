@@ -22,7 +22,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=greede14&theme=dracula&hide_border=true)<br/>
 
 # 🛡 Try Hack Me
-<script src="https://tryhackme.com/badge/1546252"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/besuto.a.png" alt="TryHackMe">
+
 
  ## 💰You can help me by Donating
 ><p><a href="https://ko-fi.com/anawinathawong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anawinathawong" /></a></p><br><br>
